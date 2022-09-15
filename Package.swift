@@ -9,7 +9,7 @@ let package = Package(
     targets: [
         .target(
             name: "SwiftyCodeView",
-            path: "SwiftyCodeView/SwiftyCodeView"
+            path: "SwiftyCodeView"
         )
     ]
 )
